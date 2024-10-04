@@ -12,4 +12,4 @@ for(i in 0 until ListaPalabras.size){
     }
 }
 
-print("la palabra más larga es $palabraLarga")dddd
+print("la palabra más larga es $palabraLarga")
